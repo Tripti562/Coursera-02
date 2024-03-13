@@ -47,6 +47,7 @@ main h1{
     display: flex;
     justify-content: flex-end;
 }
+
 @media (max-width:767px) {
     section{
         flex-direction: column;
